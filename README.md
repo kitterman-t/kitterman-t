@@ -4,7 +4,7 @@ I build, run and secure the technology people rely on. I'm a Systems Administrat
 
 ## What I work on
 
-- **AI platforms.** I've owned and run RPI's ChatGPT Edu workspace since it launched in April 2025 (500 seats). I designed its credit policy, with per-user limits and weekly automated audits. Modeled on July 2026 usage, it cuts credit use by 74.9%.
+- **AI platforms.** I've owned and run RPI's ChatGPT Edu workspace since it launched in April 2025 (500 seats). I designed its credit policy, with per-user limits and weekly automated audits. It cut daily credit use about 77% within six weeks, with zero overage.
 - **AI builds.** As an AI Engineer Intern at RPI, I built a retrieval (RAG) assistant on Google Cloud, ran the cost review that moved it to Microsoft Copilot Studio, and rebuilt it there. It's now open to all RPI employees.
 - **Endpoints and identity.** I'm the primary Microsoft Intune admin and own macOS management for a fleet of 6,000+ endpoints. I also work across Entra ID and Google Workspace.
 - **Teaching.** I designed and led a hands-on AI workshop for about 30 IT staff on using AI tools safely and checking their output.
